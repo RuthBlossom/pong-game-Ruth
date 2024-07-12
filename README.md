@@ -2,6 +2,9 @@
 
 This Python program utilizes the Turtle module to create a simple Pong game where two players control paddles to bounce a ball back and forth across the screen.
 
+![Uploading pong.JPG…]()
+
+
 ## Features
 
 - **Two Player Gameplay**: Players can control paddles using keyboard inputs to bounce the ball and prevent it from reaching their side.
